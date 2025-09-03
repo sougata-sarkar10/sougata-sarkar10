@@ -63,4 +63,5 @@ Actively seeking internship or junior-level roles to contribute, learn, and grow
 
 ---
 
-📫 **Let's connect:** [LinkedIn](www.linkedin.com/in/sougatasarkar10)
+📫 **Let's connect:**- **LinkedIn:** [linkedin.com/in/sougata-sarkar](https://www.linkedin.com/in/sougata-sarkar)
+
