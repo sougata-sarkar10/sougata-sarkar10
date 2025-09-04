@@ -8,7 +8,7 @@
 ## 🛠️ Technical Skills
 
 **Programming Languages:**  
-🐍 Python | ☕ Java | 💻 C | ⚡ JavaScript  
+🐍 Python | ☕ Java | 💻 C/c++ | ⚡ JavaScript  | React
 
 **Web Technologies:**  
 🌐 HTML | 🎨 CSS  
