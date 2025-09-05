@@ -42,9 +42,10 @@
 A web-based tool to convert currencies using live exchange rates.  
 **Tech Used:** HTML, CSS, JavaScript, 🌍 ExchangeRate API, 🏳️ CountryFlags API
 
-### 🛍️ Amazon Website Clone (UI/UX)  
-A UI/UX clone of the Amazon e-commerce homepage for hands-on frontend learning.  
-**Tech Used:** HTML, CSS
+### 🛍️ Password Generatorusing Python
+A password generator made with python flask which gives random password including number,
+character,special character which together forms a randam text according to the size given 
+**Tech Used:** Python, Flas, Virtual Environment
 
 ### ✊ Rock Paper Scissors Game  
 Play against a computer with randomized choices and instant results.  
