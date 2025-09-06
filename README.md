@@ -11,7 +11,7 @@
 🐍 Python | ☕ Java | 💻 C/c++ | ⚡ JavaScript  | React
 
 **Web Technologies:**  
-🌐 HTML | 🎨 CSS  
+🌐 HTML | 🎨 CSS  | 👨‍💻Flask 
 
 **Database:**  
 🛢️ MySQL  
