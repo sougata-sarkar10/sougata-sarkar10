@@ -14,7 +14,7 @@
 🌐 HTML | 🎨 CSS  | 👨‍💻Flask 
 
 **Database:**  
-🛢️ MySQL  
+🛢️ MySQL | MongoDB (Learning)  
 
 **Core Concepts:**  
 📚 Data Structures & Algorithms  
