@@ -45,7 +45,7 @@ A web-based tool to convert currencies using live exchange rates.
 ### 🛍️ Password Generatorusing Python
 A password generator made with python flask which gives random password including number,
 character,special character which together forms a randam text according to the size given 
-**Tech Used:** Python, Flas, Virtual Environment
+**Tech Used:** Python, Flask, Virtual Environment
 
 ### ✊ Rock Paper Scissors Game  
 Play against a computer with randomized choices and instant results.  
