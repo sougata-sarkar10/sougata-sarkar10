@@ -22,7 +22,7 @@
 🔗 Basic API Integration  
 
 **Tools & Platforms:**  
-🔧 Git, GitHub | 🖥️ Visual Studio Code | 🧠 Leetcode
+🔧 Git, GitHub | 🖥️ Visual Studio Code | 🧠 Leetcode |
 
 ---
 
